@@ -4,7 +4,7 @@ Vamos fazer alguns exercícios de programação, para re-lembrar algortimos recu
 nosso ambiente de trabalho (Git-Github-Github classroom).
 
 
-1. Desenvolva algoritmos recursivos para os seguintes problemas e implemente-os em Java:
+1. Desenvolva algoritmos recursivos para os seguintes problemas e implemente-os (em Java, por exemplo):
    1. Multiplicação de dois números naturais, através de somas sucessivas (Ex.: 6 ∗ 4 = 4 + 4 + 4 + 4 + 4 + 4).
    1. Soma de dois números naturais, através de incrementos sucessivos (Ex.: 3 + 2 = + + (+ + + 1)).
    1. Cálculo de 1 + 1/2 + 1/3 + 1/4 + ... + 1/N.
