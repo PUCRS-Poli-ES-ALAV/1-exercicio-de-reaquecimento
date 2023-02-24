@@ -1,7 +1,7 @@
 # Exercício de Re-aquecimento - Recursão
 
 Vamos fazer alguns exercícios de programação, para re-lembrar algortimos recursivos. Além disto, é uma oportunidade para utilizarmos
-nosso ambiente de trabalho (Git-Github-Github classroom).
+nosso ambiente de trabalho (Git-Github-Github classroom). Desenvolva os exercícios abaixo em pares e análise os mecanismos da execução recursiva (o uso da pilha, as chamadas recursivas, e assim por diante). Nas próximas aulas, aprofundaremos o estudo e o desenvolvimento de algoritmos recursivos.
 
 
 1. Desenvolva algoritmos recursivos para os seguintes problemas e implemente-os (em Java, por exemplo):
